@@ -24,7 +24,6 @@ Upgradable
 
 Tools: GNU Radio, USRP, HackRF
 
-
 ## Wireless Communications
 
 1. Frequency Spectrum: Divided into bands for different types of communication
